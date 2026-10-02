@@ -1,0 +1,55 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset meta data should be kept, but not for Unity-generated caches
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# IDE folders
+.vs/
+.vscode/
+.idea/
+.gradle/
+
+# Visual Studio / Rider generated files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash / profiler / debug output
+sysinfo.txt
+*.stackdump
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# Build output
+*.exe
+*.dll.meta.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
